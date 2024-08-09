@@ -1,16 +1,17 @@
-## Hi there 👋
+# :man_technologist:🌐 Desarrollador Web
 
-<!--
-**gmorillom/gmorillom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  :email: _Contactos_
 
-Here are some ideas to get you started:
+*   🗨️ [LinkedIn](https://www.linkedin.com/in/gustavo-morillo-258213206/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   📬 **Correo** gustavomorillo98@gmail.com 
+
+
+###  😎 _Sobre mi_
+
+Entusiasmado en simular los **flujos de trabajo** y modelar con las caracteristicas que mejor los representan. 👾 Soy alguien que quiere seguir expandiendo su conocimiento y habilidades, alguien que **no solo busca programar**, además, que **quiere diseñar software seguro, escalable y usable**. 
+
+
+###  👨‍💻🛠️ _Teconologias_
+
+
