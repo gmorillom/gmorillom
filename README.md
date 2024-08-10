@@ -1,20 +1,39 @@
-![Desarrollador web](https://contentstatic.techgig.com/photo/76220523/4-secrets-to-become-a-professional-programmer.jpg?140622)
+![Web developer](https://contentstatic.techgig.com/photo/76220523/4-secrets-to-become-a-professional-programmer.jpg?140622)
 
-# :man_technologist:🌐 Desarrollador Web
+# :man_technologist:🌐 Web Developer
 
-##   _Contacto_
+##   _Contact_
 
 *   🗨️ [LinkedIn](https://www.linkedin.com/in/gustavo-morillo-258213206/)
 
-*   📬 **Correo** gustavomorillo98@gmail.com 
+*   📬 **Email** gustavomorillo98@gmail.com 
 
-##  😎 _Sobre mi_
+##  😎 _About me_
 
 <p style="font-size:20px">
-Entusiasmado en simular y representar los <strong>flujos de trabajo</strong> modelandolos con las caracteristicas que mejor los representan. Siempre estoy buscando abstraer el problema en su maxima expresion, no siempre es tarea facil y el tiempo puede que no juegue a mi favor pero siempre hare el intento. Soy alguien que quiere seguir expandiendo su conocimiento y habilidades, alguien que <strong>no solo busca programar</strong>, además, que <strong>quiere diseñar software seguro, escalable y usable</strong>.
+Enthusiastic about simulating and representing workflows by modeling them with the characteristics that best represent them. I am always looking to abstract the problem in its maximum expression, it is not always an easy task and you have to know how far to leave it, but I will always try. I am someone who wants to continue expanding their knowledge and skills, someone who <strong>not only seeks to program</strong>, but also, who <strong>wants to design secure, scalable and usable software</strong>.
 </p>
 
-##  👨‍💻🛠️ _Teconologias en las que tengo experiencia_
+
+##  _Knowledge and skills_
+
+###     Software
+
+1.  Diseño de diagramas de casos de uso, diagramas de flujo, diagramas entidad-relación
+2.  MVC
+3.  Analisis de algoritmos
+4.  Git
+5.  Websocket
+6.  HTTP
+7.  Google colab
+8.  Levantamiento de requisitos
+
+###     Idiomas
+
+1.  Ingles
+2.  Español
+
+##  👨‍💻🛠️ _Technologies that i have experience with_
 
 ###    Frontend
 
