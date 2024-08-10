@@ -19,19 +19,19 @@ Enthusiastic about simulating and representing workflows by modeling them with t
 
 ###     Software
 
-1.  Diseño de diagramas de casos de uso, diagramas de flujo, diagramas entidad-relación
+1.  Design of use case diagrams, flowcharts, entity-relationship diagrams
 2.  MVC
-3.  Analisis de algoritmos
+3.  Algorithm
 4.  Git
 5.  Websocket
 6.  HTTP
 7.  Google colab
-8.  Levantamiento de requisitos
+8.  Gathering of requirements
 
-###     Idiomas
+###     Languages
 
-1.  Ingles
-2.  Español
+1.  English
+2.  Spanish
 
 ##  👨‍💻🛠️ _Technologies that i have experience with_
 
