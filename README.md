@@ -10,7 +10,7 @@
 
 ##  😎 _Sobre mi_
 
-<p style="font-size:15px">
+<p style="font-size:20px">
 Entusiasmado en simular y representar los <strong>flujos de trabajo</strong> modelandolos con las caracteristicas que mejor los representan. Siempre estoy buscando abstraer el problema en su maxima expresion, no siempre es tarea facil y el tiempo puede que no juegue a mi favor pero siempre hare el intento. Soy alguien que quiere seguir expandiendo su conocimiento y habilidades, alguien que <strong>no solo busca programar</strong>, además, que <strong>quiere diseñar software seguro, escalable y usable</strong>.
 </p>
 
